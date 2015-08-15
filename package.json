@@ -1,0 +1,17 @@
+{
+  "name": "ust-rechner",
+  "version": "1.0.0",
+  "description": "Umsatzsteuerrechner",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node tests"
+  },
+  "author": "Richard",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.0",
+    "minimist": "^1.1.2",
+    "numeral": "^1.5.3",
+    "zpad": "^0.5.0"
+  }
+}
